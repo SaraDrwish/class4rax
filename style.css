@@ -1,0 +1,24 @@
+/*  first css project by saso*/
+
+
+.title1{
+color: rgb(174, 138, 228);
+text-align: center
+
+}
+
+.git{
+ color:rgb(10, 84, 88);
+ text-align: center
+
+}
+
+.gitpic{
+width: 500px;
+height: 500px;
+/* align-items: center; */
+display: block;
+margin-right: auto;
+margin-left: auto;
+
+}
